@@ -1,1 +1,1 @@
-# hololens_unity
+# Unity Example Project
